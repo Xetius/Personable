@@ -1,0 +1,11 @@
+tomcat:
+    container_name: blog_tomcat
+    build: ./tomcat8
+    ports:
+        - "8080:8080"
+mongo:
+    container_name: blog_mongo
+    build: ./mongo
+    ports: 
+        - "27017:27017"
+
