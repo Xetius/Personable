@@ -1,2 +1,3 @@
 rootProject.name = 'personable'
+include 'personable-ws'
 
