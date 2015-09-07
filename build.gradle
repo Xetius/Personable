@@ -1,9 +1,6 @@
 group 'com.xetius'
 version '1.0-SNAPSHOT'
 
-include 'personable-docker'
-include 'personabe-ws'
-
 repositories {
     mavenCentral()
 }

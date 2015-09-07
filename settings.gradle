@@ -1,3 +1,4 @@
 rootProject.name = 'personable'
 include 'personable-ws'
+include 'personable-docker'
 
